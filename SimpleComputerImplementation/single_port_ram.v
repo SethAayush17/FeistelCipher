@@ -9,8 +9,6 @@
 // Description: This is a model of a single-port random access memory with a single-cycle
 //              read/write address. It serves as the Simple Computer's data memory.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
-// Modified by P. Athanas, 3/2013 
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
