@@ -1,8 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 //
 // Module:      proc_enable_select
-// Author:      KLC
-// Created:     29 November 2021
 // Modified:    
 // Version:     1.0
 // Description: This module allows you to choose between using KEY[0] to advance the processor
