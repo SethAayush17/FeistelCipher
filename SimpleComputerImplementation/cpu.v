@@ -6,20 +6,6 @@
 //              in Figure 8-15 on Page 460. It is mainly a structural module whose units are 
 //              implemented in other modules in this project.
 //    
-// Modified by Tom Martin, 11/11/2012 
-//	Modified by P. Athanas, 03/2013 
-// Modified by KLC, 11/2013 
-// Modified by KLC, 11/2015 
-// Modified by Addison Ferrari, 7/2019
-// Modified by JST, 11/2019
-// Modified by KLC, 4/2022
-//
-// - Removed accelerometers and EEPROM.
-// - Added IR and PC outputs to make them visible.
-// - Fixed warnings about the memory address input width.
-// - Added r6 and r7
-// - Added synthesis keep directives.
-// - Modified bus names for consistency with LE F
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
