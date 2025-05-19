@@ -10,8 +10,6 @@
 //						the seven segment display that display the hex value.
 //						Assumes common anode seven-segment displays on the DE10-Lite board.
 // 
-// Created by Addison Ferrari, July 2019
-// Modified by JST, November 2019
 //
 ///////////////////////////////////////////////////////////////////////////////////////////////
 
