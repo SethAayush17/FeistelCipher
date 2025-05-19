@@ -9,8 +9,6 @@
 // Description:	This is a model of an 8-bit wide 20-to-1 multiplexor used to
 //                direct various signals within the Simple Computer to the LEDs.
 //
-// Created by Addison Ferrari, 23 July 2019
-// Modified by JST, November 2019
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
