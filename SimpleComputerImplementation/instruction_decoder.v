@@ -5,8 +5,6 @@
 // Description: This module corresponds to the Simple Computer's Instruction Decoder, as shown in
 //              Figure 8-16 on Page 462.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
-// Modified by JST, 10 April 2016 - Removed intermediate values 
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
