@@ -1,0 +1,101 @@
+Restore Archived Project report for SimpleComputer
+Wed Apr 30 16:00:22 2025
+Quartus Prime Version 23.1std.1 Build 993 05/14/2024 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2024  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Wed Apr 30 16:00:22 2025 ;
+; Revision Name                   ; SimpleComputer                        ;
+; Top-level Entity Name           ; ECE2544SimpleComputer                 ;
+; Family                          ; MAX 10                                ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'C:/ECE2544/LE G/LE_G_Simple_Computer.qar' into the 'C:/ECE2544/LE G/' directory
+Info: Generated report 'SimpleComputer.restore.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga/23.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 4836 megabytes
+    Info: Processing ended: Wed Apr 30 16:00:22 2025
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++----------------------------------------+
+; Files Restored                         ;
++----------------------------------------+
+; File Name                              ;
++----------------------------------------+
+; qar_info.json                          ;
+; ECE2544SimpleComputer.sdc              ;
+; ECE2544SimpleComputer.v                ;
+; SimpleComputer.qpf                     ;
+; SimpleComputer.qsf                     ;
+; SimpleComputer_assignment_defaults.qdf ;
+; adder_16bit.v                          ;
+; assignment_defaults.qdf                ;
+; button_fsm.v                           ;
+; cpu.v                                  ;
+; data.txt                               ;
+; decoder3to8enable.v                    ;
+; dual_port_ram.v                        ;
+; function_unit.v                        ;
+; hexDecoder_7seg.v                      ;
+; instruction.txt                        ;
+; instruction_decoder.v                  ;
+; mux10to1_16bits.v                      ;
+; mux20to1_8bits.v                       ;
+; mux2to1_16bit.v                        ;
+; mux4to1_16bit.v                        ;
+; mux8to1_16bit.v                        ;
+; pc_controller.v                        ;
+; proc_enable_select.v                   ;
+; register_16bit.v                       ;
+; single_port_ram.v                      ;
+; single_port_rom.v                      ;
++----------------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
