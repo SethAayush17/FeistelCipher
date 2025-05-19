@@ -9,8 +9,6 @@
 // Description: A basic 16-bit register with synchronous active-high load enable
 //              and syncronous active-high reset.
 //
-// Created by Addison Ferrari 07/2019
-// Modified by JST, November 2019
 //
 ////////////////////////////////////////////////////////////////////////////////
 
