@@ -9,7 +9,6 @@
 // Description: This finite state machine is used to generate one clock pulse every time the button
 //              is pushed.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
