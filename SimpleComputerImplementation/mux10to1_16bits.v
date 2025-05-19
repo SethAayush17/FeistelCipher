@@ -9,8 +9,6 @@
 // Description: This is a model of an 16-bit wide 10-to-1 multiplexer used to
 //              direct various signals within the Simple Computer to the seven segment displays.
 //
-// Created by Addison Ferrari 23 July 2019
-// Modified by JST, November 2019
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
