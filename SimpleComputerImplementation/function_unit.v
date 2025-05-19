@@ -6,15 +6,6 @@
 //              It generates status flags for Overflow, Carry-out, Negative, and Zero: (V, C, N, Z).
 //              The Simple Computer uses N and Z in the Instruction Decoder.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
-// Modified by P. Athanas, 3/2013
-//   --> Transformed into a structural model
-// Modified by JST, 6/2013 
-//   --> Overflow flag fixed (was a carry-out)
-// Modified by JST, 6/2015 
-//   --> Reformulated to match structure of the Function Unit described in the text.
-// Modified by JST, 11/2019 
-//   --> Impoved structural modeling.
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
