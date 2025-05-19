@@ -9,8 +9,6 @@
 // Description: This is a model of a simple synchronous dual-port RAM for the Simple Computer of
 //              Chapter 9. The dual_port_ram module implements the register file.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
-// Modified by Addison Ferrari 07/2019, Rewritten using structural models
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
