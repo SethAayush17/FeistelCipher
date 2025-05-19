@@ -8,8 +8,6 @@
 //
 // Description: A basic 3-to-8 decoder with enable.
 //
-// Created by Addison Ferrari 07/2019
-// Modified by JST, November 2019
 //
 ///////////////////////////////////////////////////////////////////////////////
 
