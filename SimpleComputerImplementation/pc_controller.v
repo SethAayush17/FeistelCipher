@@ -11,12 +11,6 @@
 //                and are also dependent in part upon status flags N and Z.
 //              - All other instructions cause PC to advance to the next consecutive instruction.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
-// Modified by KLC, Nov 2015 to fix R6/R7 LED viewing.
-// Modified by Addison Ferrari, July 2019 to reduce amount of procedural verilog and increase
-//          readability.
-// Modified by JST, October 2019 to remove hidden control references.
-// Modified by KLC, March 2020 to remove "+" operator
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
