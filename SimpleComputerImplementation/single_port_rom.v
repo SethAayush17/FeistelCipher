@@ -9,7 +9,6 @@
 // Description: This is a model of the Simple Computer's Instruction Memory. To meet the
 //              single-cycle requirement, this ROM must have a single-cycle read address.
 //
-// Created: 06/2012, Xin Xin, Virginia Tech
 //
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
